@@ -74,7 +74,8 @@ endmodule
 ```
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ```
-![323302890-73ee8589-58a0-4446-be72-67c2760de6de](https://github.com/H515piyush/T-FLIPFLOP-POSEDGE/assets/147472999/d50a30dc-17ab-4b9a-ac1d-c8dfad24aa72)
+![digi ex9 wave output](https://github.com/H515piyush/T-FLIPFLOP-POSEDGE/assets/147472999/a1f5d40b-0658-4f58-9ff2-261ce0d8d687)
+
 ```
 
 **RESULTS**
